@@ -16,4 +16,4 @@ Student @ K.S.Rangasamy College of Technology
 
 (![LeetCode Stats](https://leetcard.jacoblin.cool/Arun_P2004?theme=dark&font=Cantata%20One&ext=heatmap))
 
-[![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arun7333&bg_color=030303&color=fdfcfc&line=42e12d&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
